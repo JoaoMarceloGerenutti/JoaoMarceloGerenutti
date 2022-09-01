@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/JoaoMarceloGerenutti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarceloGerenutti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarceloGerenutti&show_icons=true&theme=dracula&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarceloGerenutti&hide=assembly,pascal,python,pawn,aidl,java&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
