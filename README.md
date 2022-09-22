@@ -10,9 +10,13 @@
 <div>
   <a href="https://github.com/JoaoMarceloGerenutti">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarceloGerenutti&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarceloGerenutti&hide=assembly,pascal,python,pawn,aidl,java&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarceloGerenutti&hide=assembly,pascal,python,pawn,aidl&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="JAVA" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring Boot" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Git" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="C#" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt=".NET Core" height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
